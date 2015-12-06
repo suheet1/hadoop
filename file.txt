@@ -4,3 +4,4 @@ git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/vinod2106/hadoop.git
 git push -u origin master
+https://help.github.com/articles/dealing-with-non-fast-forward-errors/
